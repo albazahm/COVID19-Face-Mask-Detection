@@ -48,7 +48,7 @@ Kaggle Link: <https://www.kaggle.com/andrewmvd/face-mask-detection>
 
 The following is a sample consisting of 5 images from the dataset:
 
-![sample1](./samples/sample1.png)
+![sample1](./samples/sample1.PNG)
 
 ---
 
@@ -63,8 +63,8 @@ Inputs:
 
 Outputs:
 
-![trump-biden2](./sample_images/sample_output1.png)
-![harris-pence2](./sample_images/sample_output2.png)
+![trump-biden2](./sample_images/sample_output1.PNG)
+![harris-pence2](./sample_images/sample_output2.PNG)
 
 *** *other sample outputs can be found in the samples folder*
 
