@@ -48,7 +48,7 @@ Kaggle Link: <https://www.kaggle.com/andrewmvd/face-mask-detection>
 
 The following is a sample consisting of 5 images from the dataset:
 
-![sample1](./samples/sample1.png)
+![sample1](./sample_images/sample1.png)
 
 ---
 
@@ -58,13 +58,15 @@ The following is a demonstration of the prediction on unseen images.
 
 Inputs:
 
-![trump-biden](./sample_images/trump-biden.jpg)
-![harris-pence](./sample_images/harris-pence.jpeg)
+<img src='./sample_images/trump-biden.jpg' alt='trump-biden' width=500 height=300/>
+<br />
+<img src='./sample_images/harris-pence.jpeg' alt='harris-pence' width=500 height=300/>
 
 Outputs:
 
-![trump-biden2](./sample_images/sample_output1.png)
-![harris-pence2](./sample_images/sample_output2.png)
+<img src='./sample_images/sample_output1.PNG' alt='trump-biden' width=500 height=300/>
+<br />
+<img src='./sample_images/sample_output2.PNG' alt='harris-pence' width=500 height=300/>
 
 *** *other sample outputs can be found in the samples folder*
 
