@@ -56,13 +56,13 @@ The following is a sample consisting of 5 images from the dataset:
 
 The following is a demonstration of the prediction on unseen images.
 
-Inputs:
+**Inputs Images:**
 
 <img src='./sample_images/trump-biden.jpg' alt='trump-biden' width=500 height=300/>
 <br />
 <img src='./sample_images/harris-pence.jpeg' alt='harris-pence' width=500 height=300/>
 
-Outputs:
+**Outputs Images:**
 
 <img src='./sample_images/sample_output1.PNG' alt='trump-biden' width=500 height=300/>
 <br />
