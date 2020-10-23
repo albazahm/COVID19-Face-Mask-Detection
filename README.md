@@ -33,6 +33,10 @@ There are 3 classes in total that could describe any of the bounding boxes. For 
 
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; GitHub Link: <https://github.com/akTwelve/Mask_RCNN>
 
+**Mask R-CNN COCO Model Weights** - used in training:
+
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; GitHub Link: https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
+
 **Face Mask Detection Dataset:**
 
     @misc{make ml,
@@ -74,11 +78,12 @@ The following is a demonstration of the prediction on unseen images.
 
 ## **Make a Prediction**
 
-1. Clone the GitHub repository
+1. Clone this repository
 2. Install libraries in requirements.txt
-3. Put images to predict in the test_images folder. Alternatively, you can put the images in a different folder and specify the folder using the argparse arguments in step 4.
-4. Open terminal and run:
+3. Download model weights [zip file](https://drive.google.com/file/d/1MbZaior_ft54aKxOtbofoIs2k3Kv0X-P/view?usp=sharing) and extract folder into the directory of the repository.
+4. Put images to predict in the test_images folder. Alternatively, you can put the images in a different folder and specify the folder using the argparse arguments in step 4.
+5. Open terminal and run:
 
-    python predict.py --image_path
+        python predict.py --image_path
 
-where image_path is the directory containing the images to predict.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where image_path is the directory containing the images to predict.
