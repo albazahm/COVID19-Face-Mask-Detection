@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#model files (too big)
+*.h5
+mask_cfg*
+
 # Distribution / packaging
 .Python
 build/
