@@ -1,4 +1,4 @@
-# **COVID-19: Faster R-CNN for Mask Detection**
+# **COVID-19: Mask R-CNN for Mask Detection**
 
 With the ongoing global pandemic, many elected officials and medical experts have put in place policies, guidelines and protocols to keep the public safe. Mask-wearing is often recommended as a best-practice for helping mitigate the spread of the virus.
 
